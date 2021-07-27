@@ -14,7 +14,7 @@ organizations:
   url: https://www.iastate.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: .
+bio: you guess
 
 # Interests to show in About widget
 interests:
@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Industrial Engineering
+    institution: Iowa State University
+    year: 2020-2025
   - course: M.A. in Data Science
     institution: University of Wisconsin Madison
-    year: 2020
+    year: 2018-2020
   - course: B.A. in Statistics
     institution: Southeast University
-    year: 2019
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
